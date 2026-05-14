@@ -1,0 +1,12 @@
+ID, Nome, Cognome, Stipendio, ruolo
+1;Marco;Rossi;1500.00;curatore
+2;Laura;Bianchi;1400.00;sicurezza
+3;Giuseppe;Verdi;1700.00;fornitore
+4;Elisa;Capparri;1300.00;guida turistica
+5;Jacopo;Serri;1700.00;fornitore
+6;Jasmine;Capaci;1700.00;fornitore
+7;Federico;Artino;1500.00;curatore
+8;Mattia;Pandolfi;1500.00;curatore
+9;Alex;Perni;1400.00;sicurezza
+10;Irina;Xandra;1300.00;guida turistica
+11;Luna;Muti;1300.00;guida turistica
